@@ -1,0 +1,12 @@
+title: Ziv00s3.github.io
+description: ""
+url: "https://Ziv00s3.github.io"
+baseurl: ""
+
+# Theme supported by GitHub Pages via github-pages gem
+theme: minima
+
+# Plugins allowed on GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
